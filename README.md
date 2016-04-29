@@ -9,6 +9,6 @@ but second item is fail
 
 File that do the cart:-
 
-index.php --> into modal functions
-functions.php --> as cart process
+index.php --> into modal functions,
+functions.php --> as cart process,
 pakejlist.php --> to display item in session array
